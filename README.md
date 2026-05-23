@@ -1,12 +1,19 @@
-# NeetCode Solutions — @x86byte
+# multiple cp solutions — @x86byte
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `cp_submissions`
 
 ---
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+a repository that are sync automatically from neetcode, [NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+
+# C++ CP tamplate
+
+also there is my cp tamplate
+
+<img width="1280" height="151" alt="image" src="https://github.com/user-attachments/assets/ec12738a-d699-4bf3-9f2d-b12689065651" />
+
 
 ---
 
